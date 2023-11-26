@@ -1,7 +1,7 @@
 <h1 align="center">🤓MASTERMIND🤓</h1>
 <h3 align="center"> PEDRO RONDÓN</h3>
 
-<p align="center"><a href="https://pedrowolfr.github.io/MasterMind-PR/">https://pedrowolfr.github.io/MasterMind-PR/</a></p>
+<p align="center"><a href="https://pedrowolfr.github.io/">https://pedrowolfr.github.io/MasterMindPR/</a></p>
 
 ## Contenido
 
@@ -43,7 +43,7 @@ Si hacemos click en "Jugar" nos llevará a la pantalla donde se deberas escoger 
 En la siguiente ventana, tendremos que elegir el nivel de dificultad, de momento solo estará disponible el nivel mas facil, siendo representado de manera peculiar, inspirado en los niveles de dificultad de un juego reconocido.
 
 <div style="text-align: center;"> 
-<img src="./img/colores.jpg" alt="leves" width="500"/>
+<img src="./img/niveles.jpg" alt="leves" width="500"/>
 </div>
 
 Una vez se ha definido el nombre y hayamos escogido nuestro nivel de dificultad, debemos decidirnos por 4 colores diferentes, dado que si no se eligen los 4 colores o si son iguales no nos permitira avanzar, arrojando una ventanilla de aviso al jugador.
